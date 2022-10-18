@@ -1,20 +1,5 @@
 #banner {
 	width:100%;
-}   
-
-header { 
-    background: #BBBBBB;
-
- }
-
-nav a {
-	text-transform: uppercase;
-	color: #000000;
-}
-
-nav li {
-    display: inline;
-
 }
 
 .principal{
